@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose">Bitte wählen Sie die gewünschte Mensa</string>
+    <string name="app_name">LorbeerApp</string>
+    <string name="show_photos">Fotos ansehen</string>
+    <string name="take_photo">Foto aufnehmen</string>
+    <string name="takeOwnPhoto">Eigenes Bild hinzufügen</string>
+    <string name="send_photo">Foto senden</string>
+    <string name="noPrice">keine Angabe</string>
+    <string name="noDish">kein Angebot</string>
+    <string name="noPhoto">kein Foto geladen</string>
+    <string name="price_stud">Studenten: %1$s €</string>
+    <string name="price_empl">Mitarbeiter: %1$s €</string>
+    <string name="addComment">Kommentar hinzufügen</string>
+    <string name="author">Name</string>
+    <string name="comment">Kommentar</string>
+    <string name="sendComment">Kommentar absenden</string>
+    <string name="show_comments">Kommentare ansehen</string>
+    <string name="addOwnComment">Kommentar abgeben</string>
+    <string name="dishAmount">Menge</string>
+    <string name="dishSpiciness">Würzigkeit</string>
+    <string name="dishAppearence">Aussehen</string>
+    <string name="addRating">Bewertung hinzufügen</string>
+    <string name="clearData">Daten löschen</string>
+    <string name="ratingSuccessful">Bewertung erfolgreich hinzugefügt</string>
+    <string name="photoSuccessful">Foto erfolgreich hinzugefügt</string>
+    <string name="commentSuccessful">Kommentar erfolgreich hinzugefügt</string>
+    <string name="error">Ein Fehler ist aufgetreten</string>
+    <string name="noPhotosToShow">keine Bilder vorhanden</string>
+    <string name="noCommentsToShow">keine Kommentare vorhanden</string>
+    <string name="distance">Entfernung:</string>
+    <string name="transmissionError">Fehler bei der Übertragung</string>
+    <string name="wrongInputData">Bitte Eingabedaten überprüfen</string>
+    <string name="noRatingInput">Keine Bewertung abgegeben</string>
+    <string name="noGpsActive">Kein GPS aktiv</string>
+    <string name="noConnection">Kein Verbindung zum Internet aktiv</string>
+</resources>
